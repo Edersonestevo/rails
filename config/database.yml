@@ -24,7 +24,7 @@ default: &default
 development:
   <<: *default
   database: edersonestevo_development
-  username: ederson
+  username: eder
   password: 91794647
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
